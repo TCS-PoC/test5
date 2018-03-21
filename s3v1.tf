@@ -7,6 +7,6 @@ resource "aws_s3_bucket" "bucket2" {
     enabled = true
   }
   tags {
-    Name = "My bucket1"
+    Name = "My bucket2"
   }
 }
